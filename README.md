@@ -15,7 +15,6 @@ This project analyzes global video game sales data to identify market trends, to
 3.  **Market Trend**: Sales showed a significant upward trend peaking around 2010-2015, followed by a decline (attributed to incomplete data in recent years).
 
 ## 📈 Visualizations
-(Here, you can upload screenshots of your charts if you like, or just leave this section pointing to the notebook)
 *Check the notebook file for detailed interactive charts.*
 
 ## 🚀 How to Run
